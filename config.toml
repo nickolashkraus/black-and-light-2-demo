@@ -1,3 +1,36 @@
-baseURL = "http://example.org/"
+baseURL = "https://black-and-light-2.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Black & Light 2"
+author = "Nickolas Kraus"
+canonifyurls = true
+theme = "black-and-light-2"
+
+pygmentsStyle       = "tango"
+pygmentsCodeFences  = true
+
+googleAnalytics = ""
+
+[params]
+  siteName = "Black & Light 2"
+  dateFormat = "January 2, 2006"
+
+[params.social]
+  email = "nickhkraus@gmail.com"
+  github = "https://github.com/NickolasHKraus"
+  linkedin = "https://linkedin.com/in/nickolas-kraus"
+  stackoverflow = "https://stackoverflow.com/users/9659079/nickolashkraus"
+  twitter = "https://twitter.com/NickolasHKraus"
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+[[menu.main]]
+    name = "Articles"
+    url  = "/articles"
+[[menu.main]]
+    name = "Resume"
+    url  = "/resume.pdf"
+
+# [[menu.secondary]]
+#    name = ""
+#    url  = ""
