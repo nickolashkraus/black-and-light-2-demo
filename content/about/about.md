@@ -1,11 +1,12 @@
 ---
-title: "About"
+title: "Black & Light 2"
 date: 2018-10-14T12:00:00-06:00
 draft: true
+layout: about.html
 ---
 
 # Black & Light 2
-A beautiful, high contrast, text-oriented theme for Hugo. Black & Light 2 is hyper-performant, JavaScript-free, and fully open-source!
+A beautifully simple, high contrast, text-oriented theme for Hugo. Black & Light 2 is hyper-performant, JavaScript-free, and fully open-source!
 
 ## Features
 
@@ -25,6 +26,9 @@ Copy the [`config.toml`](https://github.com/NickolasHKraus/black-and-light-2/blo
 
 ### Changing the favicon
 Black & Light 2 comes with a default favicon (`favicon.png`). To use your own favicon, simply create `favicon.png` in the `static` directory of your Hugo website. When running `hugo`, the favicon located at `static/favicon.png` will overwrite the favicon located at `themes/black-and-light-2/static/favicon.png`.
+
+### The About section
+Instead of creating `about.html` with standard HTML, a simple layout is applied to the content contained in `about.md`. To change the **About** section, simply modify this file.
 
 ## Acknowledgments
 This is a clean fork of David Hamp-Gonsalves's [Black & Light](https://github.com/davidhampgonsalves/hugo-black-and-light-theme).
