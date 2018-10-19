@@ -13,7 +13,7 @@ A beautifully simple, high contrast, text-oriented theme for Hugo. Black & Light
 * Loads in a single request (with web-fonts disabled)
 * 100/100 on [Google PageSpeed Tools](https://developers.google.com/speed/) and 100/100 on mobile (with web-fonts disabled)
 * No JavaScript (unless using Google Analytics).
-* Styles are pure CSS and are inclined in `<head>`.
+* Styles are pure CSS and are inlined in `<head>`.
 
 ## Installation
 
