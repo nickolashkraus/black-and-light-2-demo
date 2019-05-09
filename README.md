@@ -1,3 +1,3 @@
-# black-and-light-2-io
+# Black & Light 2 Demo
 
 A demo website for Black & Light 2
