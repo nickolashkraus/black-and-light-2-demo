@@ -1,6 +1,6 @@
-baseURL = "https://black-and-light-2.io"
+baseURL = "https://black-and-light-2.hugo-themes.io/"
 languageCode = "en-us"
-title = "Black & Light 2"
+title = "Black & Light 2 Demo"
 author = "Nickolas Kraus"
 canonifyurls = true
 theme = "black-and-light-2"
@@ -11,7 +11,7 @@ pygmentsCodeFences  = true
 googleAnalytics = ""
 
 [params]
-  siteName = "Black & Light 2"
+  siteName = "Black & Light 2 Demo"
   dateFormat = "January 2, 2006"
 
 [params.social]
