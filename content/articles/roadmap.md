@@ -4,7 +4,7 @@ date: 1970-01-01T12:00:00-06:00
 description: This article serves as a roadmap for the Black & Light 2 theme.
 ---
 
-Since the Black & Light 2 theme powers my own [website](https://nickolaskraus.org), I am constantly making improvements.
+Since the Black & Light 2 theme powers my own [website](https://nickolaskraus.io), I am constantly making improvements.
 
 The following is a list of improvements that I am working on.
 
